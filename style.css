@@ -268,7 +268,7 @@
     @media (max-width: 450px) {
       #background-video {
         top: 0;
-        left: -90%;
+        left: -150%;
       }
     
       nav {
@@ -349,6 +349,7 @@
         left: 15%;
         width: 70%;
         height: 10px;
+        display: none;
       }
     
       .important-words {
